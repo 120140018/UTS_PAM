@@ -9,13 +9,22 @@ Deskripsi Aplikasi
 Aplikasi ToDoList ini digunakan untuk membuat daftar atau list tugas
 yang ingin dikerjakan.
 
-`Daftar Package yang digunakan install npx expo install expo-device`
-`Daftar Package yang digunakan install npx expo-checkbox`
-`Daftar Package yang digunakan install npx expo install expo-react`
-`Daftar Package yang digunakan install  build:android`
-`Daftar Package yang digunakan install npx expo-app-loading`
-`Daftar Package yang digunakan install npx expo-font` \#\# cara instal
-(mode pengembang)
+Daftar Package yang digunakan
+
+    install npx expo install expo-device
+
+    install npx expo-checkbox
+
+    install npx expo install expo-react
+
+    install  build:android
+
+    install npx expo-app-loading
+
+    install npx expo-font
+
+cara instal (mode pengembang)
+-----------------------------
 
 #### pada smartphone
 
